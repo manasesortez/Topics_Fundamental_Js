@@ -23,7 +23,7 @@ var sacha = {
     
   
     if (persona.cocinero) {
-      console.log('Es Cocinero')
+      console.log('Es  Cocinero')
     }
   
     if (persona.dj) {
