@@ -6,7 +6,9 @@
   "scripts": {
     "callback": "node src/callback/index.js",
     "promise": "node src/promise/index.js",
-    "async": "node src/async/index.js"
+    "async": "node src/async/index.js",
+    "object": "node src/Objects/index.js"
+
   },
   "keywords": [
     "javascript",
